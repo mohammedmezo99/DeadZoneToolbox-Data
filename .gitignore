@@ -1,0 +1,4 @@
+# Build artifacts
+*.bak
+*.tmp
+.DS_Store
